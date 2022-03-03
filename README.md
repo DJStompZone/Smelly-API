@@ -5,6 +5,7 @@ This is a wrapper for the MCBE Gamtest Framework, which uses advanced ways to ma
 ## Authors
 
 - [@Smell of curry](https://www.github.com/smell-of-curry)
+- [@DJStompZone](https://www.github.com/DJStompZone)
 
 
 ## Features
@@ -20,9 +21,14 @@ All of these features come with easy-to-change config files and advanced support
 
 ## Support
 
-For support, Join the discord https://discord.gg/dMa3A5UYKX.
+For support, Join the discord:
+https://discord.io/stomp
 
-Want to get better at gametest? Join the offical minecraft gametest discord: https://discord.gg/3GvfCDdTqY
+Want to get better at gametest? Join the offical minecraft gametest discord:
+https://discord.gg/3GvfCDdTqY
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
